@@ -1,11 +1,11 @@
-##New version 2.0.0-beta now available for testers. [Check it](http://www.owlgraphic.com/owlcarousel2/)
+##New version 2.0.0-beta now available for testers. | link to spammer removed
+
 
 ### OwlCarousel ###
 >v.1.3.3
 
 Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.
-[Visit Owl Carousel landing page](http://owlgraphic.com/owlcarousel)
-
+| link to spammer removed
 ###Features:
 * Responsive
 * Touch Events
@@ -24,11 +24,8 @@ Touch enabled jQuery plugin that lets you create beautiful responsive carousel s
 
 ### More Demos
 See what Owl can do:
-* [With auto scaling images](http://owlgraphic.com/owlcarousel/demos/images.html)
-* [Full Width](http://owlgraphic.com/owlcarousel/demos/full.html)
-* [Custom Widths](http://owlgraphic.com/owlcarousel/demos/custom.html)
-* [One Item](http://owlgraphic.com/owlcarousel/demos/one.html)
-* [More demos](http://owlgraphic.com/owlcarousel/#more-demos)
+| link to spammer removed
+
 
 ### 1.Getting Started
 Load jQuery(1.7+) and include Owl Carousel plugin files
@@ -64,8 +61,10 @@ Now call the Owl initializer function and your carousel is ready.
 ```html
 $(".owl-carousel").owlCarousel();
 ```
-### 4. For more details visit [OwlCarousel landing page](http://owlgraphic.com/owlcarousel)
-##### Changelog available [here](http://owlgraphic.com/owlcarousel/changelog.html)
+### 4. For more details visit | link to spammer removed
+
+##### Changelog available | link to spammer removed
+
 
 
 
